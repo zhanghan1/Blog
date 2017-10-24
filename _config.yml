@@ -4,11 +4,11 @@
 
 # Site
 title: 基础架构研究 
-subtitle:
-description:
+subtitle: hello,world
+description: 淡定、从容
 author: DarkMoon
-language:
-timezone:
+language: zh-CN
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

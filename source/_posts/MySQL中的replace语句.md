@@ -2,6 +2,8 @@
 title: MySQL中的replace语句
 date: 2017-10-06 23:00:55
 tags:
+categories:
+- MySQL
 ---
 ## 一、背景
 
